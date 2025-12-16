@@ -2,7 +2,7 @@
 
 Configuration complète d'un serveur DHCP sur Windows Server avec étendue et réservation d'adresse.
 
-## 📋 Configuration
+## Configuration
 
 - **Réseau :** 172.20.0.0/24
 - **Serveur DHCP :** 172.20.0.1
